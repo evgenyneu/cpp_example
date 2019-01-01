@@ -11,10 +11,10 @@ CXX=g++
 RM=rm -f
 
 # flags for the preprocessor (typically include file paths and symbols defined on the command line)
-CPPFLAGS=-g
+CPPFLAGS=-g -Wall -Wextra
 
 # linker flags
-LDFLAGS=-g
+LDFLAGS=-g -Wall -Wextra
 
 # libraries to link
 LDLIBS=
