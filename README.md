@@ -2,7 +2,7 @@
 
 This example shows how to write and build a simple C++ program that adds two numbers.
 
-The program contains of the main file `hello.cpp` that includes an `add` function coded in `add.cpp` and `add.h` files. The `makefile` includes instruction for compilings the source code into an executable file called `hello`.
+The program contains of the main file `hello.cpp` that includes an `add` function coded in `add.cpp` and `add.h` files. The `makefile` file includes instruction for compiling the source code into an executable file called `hello`.
 
 
 ## Install source code
