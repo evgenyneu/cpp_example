@@ -3,6 +3,20 @@
 This example shows how to write and build a simple C++ program that adds two numbers.
 
 
+## Install source code
+
+
+```
+git clone https://github.com/evgenyneu/cpp_hello_world.git
+```
+
+## Change directory
+
+```
+cd cpp_hello_world
+```
+
+
 ## Compile
 
 ```
