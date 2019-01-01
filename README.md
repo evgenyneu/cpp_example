@@ -40,7 +40,7 @@ Remove the *.o files:
 make clean
 ```
 
-Keep only sources by remove the *.o files, .depend file and the executable:
+Remove everything except the source files. It removes the *.o files, .depend file and the executable:
 
 
 ```
