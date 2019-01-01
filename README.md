@@ -1,4 +1,4 @@
-# C++ Hello World and build example
+# A simple C++ program
 
 This example shows how to write and build a simple C++ program that adds two numbers.
 
